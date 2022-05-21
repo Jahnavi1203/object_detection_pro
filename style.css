@@ -1,0 +1,12 @@
+body{
+    background-size: contain;
+}
+
+.heading{
+    font-size: 30px;
+}
+
+.name{
+    text-align: left;
+    font-size: 30px;
+}
